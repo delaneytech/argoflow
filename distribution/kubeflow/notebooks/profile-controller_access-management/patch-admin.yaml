@@ -4,4 +4,4 @@ metadata:
   name: profiles-config
   namespace: kubeflow
 data:
-  ADMIN: "admin@argoflow.org"
+  ADMIN: "delaney.tech.14@gmail.com"
